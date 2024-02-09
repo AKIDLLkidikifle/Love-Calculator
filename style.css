@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: cursive, sans-serif;
+}
+
+body{
+    background-image: url('./Heart.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+
+.container{
+    height: 500px;
+    width: 400px;
+    text-align: center;
+    margin: auto;
+}
+
+.container h1{
+    padding-top: 170px;
+    padding-bottom: 20px;
+}
+
+input{
+    padding: 10px; 
+    border-radius: 20px;
+    width: 300px;
+}
+
+#submit{
+    padding: 6px 30px;
+    border-radius: 20px;
+    background-color: rgb(226, 78, 103);
+}
+
+h1{
+    color: rgb(161, 108, 108);
+}
+
+img{
+    height: 30px;
+}
